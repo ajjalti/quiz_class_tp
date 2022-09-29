@@ -29,15 +29,6 @@ class Filiere
     }
 
     /**
-     * @return array
-     */
-    public function groups_(): array
-    {
-        // TODO implement here
-        return [];
-    }
-
-    /**
      * 
      */
     public function save()
